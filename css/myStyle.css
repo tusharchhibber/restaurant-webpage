@@ -1,0 +1,26 @@
+body {
+  font-family: helvetica, sans-serif;
+  max-width: 600px;
+}
+div {
+	height: 200px;
+	background-size: cover;
+}
+.first {
+	background: url("../images/first.jpg");
+}
+.second {
+	background: url("../images/second.jpg");
+}
+.dessert {
+	background: url("../images/dessert.jpg");
+}
+p {
+	background: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
+	padding: 10px;
+	line-height: 28px;
+	text-align: justify;
+	position: absolute;
+	bottom: 0;
+}
